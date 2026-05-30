@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvave",
+        "uuid": 2569788,
+        "checksum": "1u72bf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
